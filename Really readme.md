@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Celombor
-- 👀 I’m interested in video games and video editing.
-- 🌱 I’m currently learning at creating a perfect gmod server.
